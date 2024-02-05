@@ -1,0 +1,36 @@
+#portfolio {
+  background-color: #ffffff;
+  min-height: 100vh;
+}
+#portfolio i,
+h2 {
+  color: #2c3e50;
+  padding-top: 40px;
+}
+#portfolio h2 {
+  font-size: 40px;
+}
+
+.line {
+  width: 100px;
+  height: 4px;
+  background-color: #2c3e50;
+}
+
+.bg-layer {
+  background-color: RGBA(13, 110, 253, 0.25);
+}
+.model img {
+  margin-top: 100px;
+}
+
+.layer {
+  background-color: rgba(26, 188, 156, 0.9);
+  opacity: 0;
+  transition: opacity 1s;
+  cursor: pointer;
+}
+
+.layer:hover {
+  opacity: 1;
+}

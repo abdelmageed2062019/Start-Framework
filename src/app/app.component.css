@@ -1,0 +1,11 @@
+.app {
+  min-height: 100vh;
+  margin-top: 4rem;
+}
+
+.appClass1 {
+  background-color: #1abc9c;
+}
+.appClass2 {
+  background-color: #ffffff;
+}
